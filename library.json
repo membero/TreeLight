@@ -24,7 +24,8 @@
   ],
   "dependencies": [
     {
-      "name": "ArduinoJson"
+      "name": "ArduinoJson",
+      "version": "5.13.3"
     },
     {
       "name": "AsyncMqttClient"
